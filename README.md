@@ -1,4 +1,4 @@
-# Restful web services
+# Spring boot microservices
 This contains a web service written in Spring boot by covering all concepts like 
 - Exception Handling
 - HATEOAS
